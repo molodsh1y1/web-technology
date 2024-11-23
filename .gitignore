@@ -1,0 +1,106 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# JetBrains settings
+/.idea/*
+
+# Composer dependencies
+/vendor/
+/composer.lock
+
+# Cache and build files
+.cache/
+build/
+tmp/
+*.log
+
+# PHP settings
+.phpunit.result.cache
+phpunit.xml
+phpunit.xml.dist
+phpunit.php
+/phpunit/
+
+# Image and multimedia files
+*.tiff
+*.tif
+*.raw
+*.svg
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.psd
+*.xcf
+
+# Configuration files
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Server settings
+Homestead.yaml
+Homestead.json
+.vagrant/
+
+# Security keys
+*.key
+*.pem
+
+# Cache files
+*.cache
+
+# Log files
+*.log
+
+# Generated files
+public/storage
+storage/*.key
+storage/app/public
+storage/logs
+storage/framework/cache
+storage/framework/sessions
+storage/framework/views
+
+# System settings
+vendor/
+node_modules/
+
+# IDE settings
+.idea/
+*.sublime-workspace
+*.sublime-project
+*.vscode/
+
+# Tool settings
+*.swo
+*.swp
+*.swn
+*.swt
+*.swm
+*.phpstorm.meta.php
+
+# Deployment files
+/deployment
+/deploy.php
+
+# Preparation for release
+/public/*.js
+/public/*.map
+/public/*.css
+
+# Other unnecessary files
+/.buildpath
+/.project
+/.settings
+/.mtj.tmp/
