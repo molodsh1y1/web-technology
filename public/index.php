@@ -27,7 +27,7 @@
           <div class="card-body">
             <h3 class="card-title">Lab 14</h3>
             <p class="card-text">Working with arrays and loops</p>
-            <a href="#" class="btn btn-primary">Go to Lab 14</a>
+            <a href="../lb-14/tabulate-function.php" class="btn btn-primary">Go to Lab 14</a>
           </div>
         </div>
       </div>
