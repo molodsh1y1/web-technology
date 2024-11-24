@@ -52,6 +52,15 @@
         </div>
       </div>
 
+      <div class="col">
+        <div class="card h-100">
+          <div class="card-body">
+            <h3 class="card-title">Lab 17</h3>
+            <p class="card-text">Working with regular expressions </p>
+            <a href="/lb-17/validate_guid.php" class="btn btn-primary">Go to Lab 17</a>
+          </div>
+        </div>
+      </div>
     </div>
   </div>
 </body>
