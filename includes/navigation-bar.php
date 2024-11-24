@@ -13,7 +13,7 @@
       <div class="col-sm-auto bg-light sticky-top">
         <ul class="nav nav-pills nav-flush flex-sm-column flex-row flex-nowrap mb-auto mx-auto text-center align-items-center">
           <li class="nav-item">
-            <a href="../public/index.php" class="nav-link py-3 px-2" title="" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-original-title="Home">
+            <a href="../index.php" class="nav-link py-3 px-2" title="" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-original-title="Home">
               <i class="bi-house fs-1"></i>
             </a>
           </li>
